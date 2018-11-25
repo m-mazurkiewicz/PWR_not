@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/43285622/login-to-website-using-python-requests?rq=1
+http://kazuar.github.io/scraping-tutorial/
+https://www.quora.com/What-is-the-best-way-to-log-in-to-a-website-using-Python
